@@ -1,4 +1,4 @@
-Junior front-end debeloper CV
+#Junior front-end debeloper CV#
 Name and Surname: Kiryl Pakryshkin
 Contacts: Telergram: kirill_pkr, tel: +375291340343, e-mail: pokryshkink@gmail.com
 3. I wanт to rise in Developer status in your company, because i like that.
